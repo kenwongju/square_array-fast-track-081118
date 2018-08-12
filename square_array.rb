@@ -1,6 +1,6 @@
-def square_array(array)} 
-  array = 1
-  array.each.with.collect do |array.collect|
+def square_array(array)
+  
+  array.each do |num|
     puts "#{array}" is collecting {collect}
 end
 
