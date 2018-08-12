@@ -1,6 +1,8 @@
 def square_array(array)
-  
+  return_array = []
   array.each do |num|
-    puts "#{array}" is collecting {collect}
+  return_array.push num*num
+   
+    
 end
 
